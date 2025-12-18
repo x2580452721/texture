@@ -97,11 +97,15 @@ ________________________________________
 6.2 法线贴图开/关对比（N 键）
 •	关闭法线贴图（NormalMap OFF）：表面光照变化较平滑，缺少“砖缝凹凸”的细节。
 •	开启法线贴图（NormalMap ON）：同样的几何平面呈现明显凹凸、细节更丰富，高光变化更真实。
+<img width="865" height="644" alt="image" src="https://github.com/user-attachments/assets/ca84ad19-b039-4fb5-b1b1-dc7f812186a8" />
+
  
 6.3 Mipmap 开/关对比（M 键）
 •	关闭 Mipmap（Mipmap OFF）：纹理缩小或斜视时更容易出现闪烁和锯齿。
 •	开启 Mipmap（Mipmap ON）：缩小显示更稳定、细节更平滑，抗闪烁效果明显。
- 
+ <img width="865" height="635" alt="image" src="https://github.com/user-attachments/assets/27f369d4-bb97-4af7-96ba-890056ae1c18" />
+<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/43d7a127-e215-48d8-80a2-3d1e200b33a4" />
+
  
 
 6.4 后处理模式切换（1~4）
@@ -109,7 +113,10 @@ ________________________________________
 •	灰度：验证后处理对纹理颜色的变换
 •	边缘：边缘检测增强轮廓
 •	模糊：降低高频细节，展示卷积思想
-   
+   <img width="865" height="635" alt="image" src="https://github.com/user-attachments/assets/1e252e0f-8498-4416-a9c7-c6100fd9f55b" />
+<img width="865" height="634" alt="image" src="https://github.com/user-attachments/assets/14a14858-4e64-4468-be84-daee03c8494e" />
+<img width="865" height="636" alt="image" src="https://github.com/user-attachments/assets/8a63c1c6-663c-4c1c-b33c-515dcdecfbec" />
+
 ________________________________________
 七、关键代码模块说明（按功能）
 1）纹理加载模块（stb_image）
