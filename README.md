@@ -1,4 +1,4 @@
-<img width="865" height="631" alt="image" src="https://github.com/user-attachments/assets/87b2ca93-7018-4771-ab20-fa28e4bf48f4" />OpenGL 纹理与纹理映射综合实验报告（高分版）
+OpenGL 纹理与纹理映射综合实验报告
 一、实验名称
 OpenGL 纹理与纹理映射综合实验：多纹理混合、纹理动画、法线贴图、Mipmap 与 FBO 后处理
 ________________________________________
@@ -89,7 +89,8 @@ o	Pass2：后处理并输出到屏幕
 ________________________________________
 六、运行效果与对比实验
 6.1 最终运行截图
- <img width="865" height="631" alt="image" src="https://github.com/user-attachments/assets/53ef9a48-4792-45c9-a99f-517c55edbc29" />
+![Uploading image.png…]()
+
 
 图 1：最终效果（多纹理 + 动画 + 法线贴图 + FBO 后处理）
 6.2 法线贴图开/关对比（N 键）
