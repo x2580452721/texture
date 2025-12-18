@@ -89,7 +89,8 @@ o	Pass2：后处理并输出到屏幕
 ________________________________________
 六、运行效果与对比实验
 6.1 最终运行截图
-![Uploading image.png…]()
+<img width="865" height="631" alt="image" src="https://github.com/user-attachments/assets/e55e08c3-8bc8-46c5-97d5-4dc4355107bc" />
+
 
 
 图 1：最终效果（多纹理 + 动画 + 法线贴图 + FBO 后处理）
