@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Vstdio\opengl\texture2\main.cpp(76,1): warning C4566: 由通用字符名称“\U0001F525”表示的字符不能在当前代码页(936)中表示出来
+D:\Vstdio\opengl\texture2\main.cpp(250,22): warning C4566: 由通用字符名称“\u274C”表示的字符不能在当前代码页(936)中表示出来
+  texture2.vcxproj -> D:\Vstdio\opengl\texture2\x64\Debug\texture2.exe

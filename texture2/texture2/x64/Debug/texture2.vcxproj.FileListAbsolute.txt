@@ -1,0 +1,2 @@
+D:\Vstdio\opengl\texture2\x64\Debug\glfw3.dll
+D:\Vstdio\opengl\texture2\texture2\x64\Debug\texture2.vcxproj.Up2Date

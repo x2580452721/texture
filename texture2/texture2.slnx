@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="texture2.vcxproj" Id="8e93cf46-9212-4b78-ab56-7594e257fcad" />
+</Solution>
